@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ucapan Ulang Tahun</title>
+    <style>
+        body{
+            background-image: url('background1.jpg');
+            background-size: cover;
+            font-family: Arial;
+            text-align: center;
+            color: white;
+        }
+        .box{
+            background: rgba(0,0,0,0.6);
+            width: 300px;
+            margin: 150px auto;
+            padding: 20px;
+            border-radius: 15px;
+        }
+        a{
+            display: block;
+            margin: 10px;
+            padding: 10px;
+            background: gold;
+            color: pink;
+            text-decoration: none;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h2>🎉 Selamat Datang 🎉</h2>
+        <p>Siap menerima ucapan ulang tahun?</p>
+        <a href="pesan1.html">Mulai</a>
+    </div>
+</body>
+</html>
